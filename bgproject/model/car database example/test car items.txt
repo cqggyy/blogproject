@@ -1,0 +1,84 @@
+ General Information
+Market North America
+Plant Ingoldstadt, Germany
+Market of destination United States of America
+Drive type LHD
+Kilometers 1189
+VIN WAUPBFFXGA020794
+Teardown type Full teardown
+Weight Comments Weight includes fluids
+Model Year 2016
+ Body
+Body style Hatchback
+Body structure Full frame
+Doors number 5
+Seating Capacity 5
+ Engine
+Fuel type Hybrid gasoline + electricity
+Engine design Transversal
+Engine configuration In-line engine
+Engine Capacity (cm3) 1395
+Number of cylinder 4
+Number of valve 16
+Combustion system Petrol direct injection
+Boost Turbo
+Horse Power (PS) 204
+Max output (rpm) 5000
+Max. torque (Nm) 349
+Max. torque (rpm) 1600
+Emission standard T3B30
+Start/Stop Yes
+Drivetrain Front wheels drive
+GearBox Type Automatic
+GearBox Speeds 6
+ Hybrid / Electric battery
+Battery type Lithium-Ion (Li-Ion)
+Watt-hour Rating (kW-h) 8.8
+Capacity (Ah) 26.7
+Battery voltage (V) 355
+ Equipment
+ABS Yes
+ESP Yes
+Number of airbags 10
+Isofix Rear
+Air conditioning Automatic
+GPS System No
+Audio CD + CD Box + Auxiliary channel
+Leather Yes
+Electric seats Front
+Distance warning Front + Rear with camera
+Electric rear glass Yes
+Electric outer mirror Yes
+Cruise control Yes
+Alloy wheels Yes
+Tire pressure control Yes
+Headlight Xenon
+Split rear seats 1/3 - 2/3
+Slide/tilt sunroof unit 1 electric
+ Suspension
+Tyre size front 225/45 R17
+Tyre size rear 225/45 R17
+Spare wheel No equipment
+Steering system Electric assist on steering rack
+Front brakes Ventilated discs
+Rear brakes Single Discs
+Tyre load index 91
+Speed index H
+Wheel width 7.5 J
+Rim offset 51
+ Measurements and capacity
+Tank capacity ca. (ltr) 40
+Length (mm) 4342
+Width(mm) 1754
+Overall width with mirror (mm) 1966
+Height (mm) 1421
+Wheelbase (mm) 2631
+ Weight
+Front Left 469.5
+Front Right 450
+Rear Left 374.5
+Rear Right 360
+Front 919.5
+Rear 734.5
+Front repartition (%) 55.6
+Rear repartition (%) 44.4
